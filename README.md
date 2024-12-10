@@ -26,3 +26,5 @@ Questa è un'applicazione web che permette all'utente di incrementare e decremen
   - `assets/css/style.css`: Contiene lo stile dell'applicazione.
   - `assets/js/script.js`: Contiene la logica JavaScript dell'applicazione.
   - `assets/img/`: Cartella per le immagini utilizzate nell'app.
+## Link
+<a href="https://pg-counter.netlify.app/">Link al sito<a>
