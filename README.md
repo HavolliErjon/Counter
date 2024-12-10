@@ -1,5 +1,7 @@
 # Counter App
 
+![Testo alternativo](https://github.com/HavolliErjon/Counter/blob/0e9be26bd6dda9272b39344ed07b9f8909edd242/Screenshot_10-12-2024_183216_127.0.0.1.jpeg)
+
 ## Descrizione
 
 Questa è un'applicazione web che permette all'utente di incrementare e decrementare un counter utilizzando i pulsanti `+` e `-`.
