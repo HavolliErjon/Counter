@@ -27,4 +27,4 @@ Questa è un'applicazione web che permette all'utente di incrementare e decremen
   - `assets/js/script.js`: Contiene la logica JavaScript dell'applicazione.
   - `assets/img/`: Cartella per le immagini utilizzate nell'app.
 ## Link
-<a href="">Link al sito<a>
+<a href="https://sprightly-taffy-802b5b.netlify.app/">Link al sito<a>
